@@ -10,6 +10,7 @@ Podemos usar tu video para compartirlo con futuros alumnos o con los creadores d
 dataset?: SI
 
 Anexo de código y docu:
+
 [Notebook introduccion](https://github.com/julietamponti/TP4---Datos/blob/main/Introduccion%20Video.ipynb)
 
 [Baseline-LinearRegression](https://github.com/julietamponti/TP4---Datos/blob/main/Baseline%20-%20LinearRegression.ipynb)
