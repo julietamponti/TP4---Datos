@@ -1,8 +1,6 @@
-# TP4---Datos
+# TP4 Organización de Datos - Facultad de Ingenieria - UBA
 
 Nombre:Ponti Julieta
-
-Padrón: 104694
 
 Título completo de la tarea: ¿Cuál es el modelo más simple que mejor funciona en validación? ¿Cuál es la calibración de los modelos y qué modelos consiguen la mejor? ¿Qué features utilizan?
 
